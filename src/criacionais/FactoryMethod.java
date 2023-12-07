@@ -1,5 +1,5 @@
 package criacionais;
-
+/* 
 public class FactoryMethod {    
 
     //o código não roda, é apenas exempleficar!
@@ -61,4 +61,4 @@ public class Client {
     }
 }
 
-}
+}*/

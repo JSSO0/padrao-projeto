@@ -1,5 +1,5 @@
 package criacionais;
-
+/* 
 public class AbstractFactory {
     // Interface para a fábrica abstrata
 interface AbstractFactory {
@@ -89,4 +89,4 @@ public class Client {
     }
 }
 
-}
+}*/
